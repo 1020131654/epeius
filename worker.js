@@ -1,4 +1,3 @@
-
 // src/worker.js
 import { connect } from "cloudflare:sockets";
 let sha224Password = '08f32643dbdacf81d0d511f1ee24b06de759e90f8edf742bbdc57d88';
